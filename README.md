@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jose Montoya</h1>
 <h3 align="center">Remote Full-Stack software developer 👨🏽‍💻</h3>
 
-- - I’m currently working on **my React and Redux skills**
+- I’m currently working on **my React and Redux skills**
 
-- - I’m currently learning **Redux as a state management tool**
+- I’m currently learning **Redux as a state management tool**
 
-- - I’m looking for help with **any JavaScript based open source projects**
+- I’m looking for help with **any JavaScript based open source projects**
 
-- - All of my projects are available at my [personal web](https://jmonto55.github.io/Portfolio/)
+- All of my projects are available at my [personal web](https://jmonto55.github.io/Portfolio/)
 
-- - How to reach me **jmonto55@gmail.com**
+- How to reach me **jmonto55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
