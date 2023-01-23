@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @jmonto55
+# Hi, I’m Jose!
+
+Remote Full-Stack software developer 👨🏽‍💻
+### Contact <a name="key-features"></a>
+
 - 👀 I’m interested in web development with React, redux, Ruby on Rails & PostgreSQL
 - 🌱 I’m currently learning Tailwind & backend with python (Django)
 - 💞️ I’m looking to collaborate on any cool project
