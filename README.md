@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jose Montoya</h1>
-<h3 align="center">Remote Full-Stack software developer 👨🏽‍💻</h3>
+<h1 align="left">Hi 👋🏽, I'm Jose Montoya</h1>
+<h3 align="left">Remote Full-Stack software developer 👨🏽‍💻</h3>
 
 - I’m currently working on **my React and Redux skills**
 
