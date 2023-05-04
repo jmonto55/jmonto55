@@ -7,7 +7,7 @@
 
 - I’m looking for help with **any JavaScript based open source projects**
 
-- All of my projects are available at my [personal web](https://jmonto55.github.io/Portfolio/)
+- All of my projects are available at my [personal web]([https://jmonto55.github.io/Portfolio/](https://portfolio-ci7x.onrender.com/))
 
 - How to reach me **jmonto55@gmail.com**
 
