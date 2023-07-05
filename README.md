@@ -49,7 +49,7 @@
 
 #### Back end
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=black)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma%20on%20Rails-2D3748?style=flat&logo=prisma&logoColor=black)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=black)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=flat&logo=nodejs&logoColor=black)&nbsp;
 
 
