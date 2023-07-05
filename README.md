@@ -1,21 +1,92 @@
-<h1 align="left">Hi 👋🏽, I'm Jose Montoya</h1>
-<h3 align="left">Remote Full-Stack software developer 👨🏽‍💻</h3>
+# Hey, I'm Jose.
 
-- I’m currently working on **my React and Redux skills**
+ 
+ <p>- <i>Full-stack software developer specialized in building scalable Web Applications using React, Next.js, PostgreSQL and Ruby on Rails.</i></p>
 
-- I’m currently learning **Redux as a state management tool**
 
-- I’m looking for help with **any JavaScript based open source projects**
 
-- All of my projects are available at my [personal web]([https://jmonto55.github.io/Portfolio/](https://portfolio-ci7x.onrender.com/))
 
-- How to reach me **jmonto55@gmail.com**
+##  About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jose-fernando-montoya-g%C3%B3mez-a93039134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-fernando-montoya-g%c3%b3mez-a93039134/" height="30" width="40" /></a>
-</p>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- 🔧 I’m currently working on a headless Saas service to manage multiple e-commerce platforms.
+- 💡 I’m curious about blockchain and it's the power to fundamentally transform our financial services.
+- 📖 I’m currently learning MongoDB, and TypeScript.
+- 📫 How to reach me jmonto55@gmail.com.
+
+<hr>
+
+
+</br>
+
+
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)&nbsp;
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=css&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=blacke)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-green)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+
+#### Front end
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=black)&nbsp;
+![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+
+
+
+#### Back end
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=black)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma%20on%20Rails-2D3748?style=flat&logo=prisma&logoColor=black)&nbsp;
+![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=flat&logo=nodejs&logoColor=black)&nbsp;
+
+
+#### Full stack
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=black)&nbsp;
+![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=flat&logo=nextjs&logoColor=black)&nbsp;
+
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+
+#### Tools and Testing
+
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF4154?style=flat&logo=nextjs&logoColor=black)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=black)&nbsp;
+![RSpec]([https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white](https://img.shields.io/badge/RSpec-CC342D?style=flat&logo=ruby&logoColor=black))
+     
+</td>
+
+ </tr>
+</table>
+
+<br/>
+
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jmontodev/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:jmonto55@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+
+</br>
+</br>
 
