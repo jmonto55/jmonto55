@@ -71,7 +71,6 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF4154?style=flat&logo=nextjs&logoColor=black)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=black)&nbsp;
-![RSpec]([https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white](https://img.shields.io/badge/RSpec-CC342D?style=flat&logo=ruby&logoColor=black))
      
 </td>
 
