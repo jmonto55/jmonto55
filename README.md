@@ -1,7 +1,7 @@
 # Hey, I'm Jose.
 
  
- <p>- <i>Full-stack software developer specialized in building scalable Web Applications using React, Vue.js, Nuxt.js, Scala, PostgreSQL and Ruby on Rails.</i></p>
+ <p>- <i>Software Engineer specialized in building scalable Web Applications using React, Vue.js, Nuxt.js, Scala, PostgreSQL and Ruby on Rails.</i></p>
 
 
 
