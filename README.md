@@ -1,7 +1,7 @@
 # Hey, I'm Jose.
 
  
- <p>- <i>Full-stack software developer specialized in building scalable Web Applications using React, Next.js, PostgreSQL and Ruby on Rails.</i></p>
+ <p>- <i>Full-stack software developer specialized in building scalable Web Applications using React, Vue.js, Nuxt.js, Scala, PostgreSQL and Ruby on Rails.</i></p>
 
 
 
@@ -10,9 +10,9 @@
 
 </br>
 
-- 🔧 I’m currently working on a headless Saas service to manage multiple e-commerce platforms.
-- 💡 I’m curious about blockchain and it's the power to fundamentally transform our financial services.
-- 📖 I’m currently learning MongoDB, and TypeScript.
+- 🔧 I'm currently working on automating the recruiting process at Torre.
+- 💡 I’m curious about AI and it's the power to fundamentally transform our reality.
+- 📖 I’m currently learning Scala, and TypeScript.
 - 📫 How to reach me jmonto55@gmail.com.
 
 <hr>
