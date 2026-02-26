@@ -1,92 +1,38 @@
-# Hey, I'm Jose.
+Product-minded software engineer with a track record of delivering scalable and performant solutions under tight deadlines. Passionate about AI-augmented workflows and consistently quick to adopt new technologies in professional environments.
 
- 
- <p>- <i>Software Engineer specialized in building scalable Web Applications using React, Vue.js, Nuxt.js, Scala, PostgreSQL and Ruby on Rails.</i></p>
+<hr/>
 
-
-
-
-##  About Me
-
-</br>
-
-- 🔧 I'm currently working on automating the recruiting process at Torre.
-- 💡 I’m curious about AI and it's the power to fundamentally transform our reality.
-- 📖 I’m currently learning Scala, and TypeScript.
-- 📫 How to reach me jmonto55@gmail.com.
-
-<hr>
-
-
-</br>
-
-
-<table width="100%" >
-
- <tr>
-    <td width="60%">
-     
-## 🛠️ Skills
+## Stack
 
 #### Languages
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+#### Front End
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=css&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=blacke)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-green)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+#### Back End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 
+#### Data & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-#### Front end
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=black)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;
+#### Testing
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
+<hr/>
 
-
-#### Back end
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=black)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=black)&nbsp;
-![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=flat&logo=nodejs&logoColor=black)&nbsp;
-
-
-#### Full stack
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=black)&nbsp;
-![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=flat&logo=nextjs&logoColor=black)&nbsp;
-
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
-
-#### Tools and Testing
-
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF4154?style=flat&logo=nextjs&logoColor=black)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=black)&nbsp;
-     
-</td>
-
- </tr>
-</table>
-
-<br/>
-
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
-
-<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jmontodev/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:jmonto55@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-
-</br>
-</br>
-
+[LinkedIn](https://www.linkedin.com/in/jmontodev/) &nbsp;·&nbsp; [jmonto55@gmail.com](mailto:jmonto55@gmail.com)
