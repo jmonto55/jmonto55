@@ -1,4 +1,4 @@
-Product-minded software engineer with a track record of delivering scalable and performant solutions under tight deadlines. Passionate about AI-augmented workflows and consistently quick to adopt new technologies in professional environments.
+Product/AI Engineer
 
 <hr/>
 
